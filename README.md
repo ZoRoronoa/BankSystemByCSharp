@@ -14,17 +14,15 @@ public const string ConnectStr = "server = ********; port = 3306;user = bank;pas
 
 `pro`
 
-![image-20200707180242450](F:\C#\上交\Bank1.0\IMAGE\1.png)
+![image-20200707180242450](https://github.com/ZoRoronoa/BankSystemByCSharp/blob/master/IMAGE/1.png)
 
 `product`
 
-![image-20200707180254241](F:\C#\上交\Bank1.0\IMAGE\2.png)
+![image-20200707180254241](https://github.com/ZoRoronoa/BankSystemByCSharp/blob/master/IMAGE/2.png)
 
 -------
 
-汇率更新数据库，爬虫程序见`.py`文件
-
-运行在服务器端
+汇率更新数据库，爬虫程序见`.py`文件，运行在服务器端
 
 ----------------
 
