@@ -32,6 +32,7 @@ namespace BankSystem
             dbon.Close();
         }
 
+        // 更新系统中的日志。
         public void logupdate(int uid, string opr, string dat)//更新日志。
         {
             MySqlConnection dbon = new MySqlConnection(connetStr);
