@@ -12,6 +12,8 @@ public const string ConnectStr = "server = ********; port = 3306;user = bank;pas
 
 数据表中其他数据表在服务器中自己搭建
 
+需要自己配置服务器连接状态
+
 `pro`
 
 ![image-20200707180242450](https://github.com/ZoRoronoa/BankSystemByCSharp/blob/master/IMAGE/1.png)
